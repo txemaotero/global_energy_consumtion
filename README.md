@@ -1,2 +1,3 @@
-# global_energy_consumtion
-A collection of representation to characterize the evolution of global energy consumption
+# Glabal Energy Consumption
+
+A collection of representations to characterize the evolution of global energy consumption.
